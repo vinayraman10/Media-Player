@@ -1,7 +1,7 @@
 🎵 Mini Music Player - React
 A fully responsive YouTube-based Music Player built with React, featuring:
 
-![Uploading image.png…]()
+<img width="1599" height="731" alt="image" src="https://github.com/user-attachments/assets/4d87c997-ed3c-4607-aa1d-71b6bb175838" />
 
 
 
